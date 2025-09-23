@@ -1,6 +1,6 @@
 ---
 author: Sat Naing
-title: AstroPaper four.zero
+title: AstroPPaper four.zero
 ogImage: ../../assets/images/AstroPaper-v4.png
 slug: astro-paper-v4
 featured: true
