@@ -1,5 +1,6 @@
 ---
 author: Sat Naing
+pubDatetime: 2025-09-23
 title: SAM - How to configure AstroPaper theme
 slug: sams-how-to
 featured: true
