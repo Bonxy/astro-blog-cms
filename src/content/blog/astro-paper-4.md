@@ -1,5 +1,7 @@
 ---
 author: Sat Naing
+pubDatetime: 2025-09-23
+modDatetime: 2025-09-23
 title: AstroPPaper four.zero
 ogImage: ../../assets/images/AstroPaper-v4.png
 slug: astro-paper-v4
