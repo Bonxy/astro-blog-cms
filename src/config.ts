@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-blog-cms-c46.pages.dev", // replace this with your deployed domain
   author: "Sam",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Sams Astro",
+  title: "Sams Space",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
@@ -38,7 +38,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "#",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
