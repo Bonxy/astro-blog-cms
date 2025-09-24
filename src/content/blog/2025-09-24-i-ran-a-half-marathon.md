@@ -7,6 +7,7 @@ featured: false
 draft: false
 tags:
   - half marathon
+description: i ran the boro half marathon.
 ---
 So Sunday started with A 13.2 mile (21.2 km) run around Boro Half where the average temperature was 21℃.
 
