@@ -6,6 +6,8 @@ Hello, I'm **Sam**.
 
 Just an ordinary guy who enjoys trying to build something on the interwebs, just to see if I can.
 
+![](/Sam%20Ward%20BW.jpeg)
+
 When I'm not coding, I'm probably working, parenting, playing sports, or doing something outdoors. I like to always be busy.
 
 **Bonxy?** Just look here.
