@@ -98,9 +98,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "CodePen",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://app.pagescms.org",
     linkTitle: `${SITE.title} on CodePen`,
-    active: false,
+    active: true,
   },
   {
     name: "Discord",
