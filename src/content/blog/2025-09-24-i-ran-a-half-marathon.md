@@ -2,7 +2,7 @@
 author: Sam
 pubDatetime: 2025-03-02
 title: I ran a half marathon
-slug: I ran a half marathon
+slug: I-ran-a-half-marathon
 featured: false
 draft: false
 tags:
