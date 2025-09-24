@@ -6,7 +6,7 @@ Hello, I'm **Sam**.
 
 Just an ordinary guy who enjoys trying to build something on the interwebs, just to see if I can.
 
-<p style="text-align: right"><img src="/Sam%20Ward%20BW.jpeg"></p>
+<img src="/Sam%20Ward%20BW.jpeg" align="right">
 
 When I'm not coding, I'm probably working, parenting, playing sports, or doing something outdoors. I like to always be busy.
 
