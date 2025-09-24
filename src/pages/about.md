@@ -2,42 +2,16 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-Hello, this is Sam. :)  
-  
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hello, I'm **Sam**.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
+Just an ordinary guy who enjoys trying to build something on the interwebs, just to see if I can.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+When I'm not coding, I'm probably working, parenting, playing sports, or doing something outdoors. I like to always be busy.
 
-![coding dev illustration](/assets/dev.svg)
+**Bonxy?** Just look here.
 
-## Tech Stack
+This is my personal blog — a space for thoughts, notes, and an archive I can scroll through when wandering down memory lane.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+If you wish to contact me: _sam \[at\] bonxy \[dot\] net_
 
-## Features
-
-Here are certain features of this site.
-
-*   fully responsive and accessible
-    
-*   SEO-friendly
-    
-*   light & dark mode
-    
-*   fuzzy search
-    
-*   super fast performance
-    
-*   draft posts
-    
-*   pagination
-    
-*   sitemap & rss feed
-    
-*   highly customizable
-    
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+**:)**
