@@ -2,7 +2,7 @@
 author: Sam WP
 pubDatetime: 2010-10-07
 title: Welcome to bonxy
-slug: welcome=to-bonxy
+slug: welcome-to-bonxy
 featured: true
 draft: false
 tags:
