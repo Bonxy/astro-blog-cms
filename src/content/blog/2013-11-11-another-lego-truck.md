@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - old-wordpress-import
-description: !Title - Service Truck
+description: Another lego tow truck build..
 ---
 
 ![](https://farm8.staticflickr.com/7381/10254828356_0bee41f03b_m.jpg)**Title** - Service Truck
