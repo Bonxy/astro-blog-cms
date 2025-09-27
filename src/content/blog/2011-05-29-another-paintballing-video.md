@@ -1,20 +1,29 @@
 ---
 author: Sam
-pubDatetime: 2011-05-29
-title: Another Paintballing video.
-slug: another-paintballing-video
+pubDatetime: 2011-05-22
+title: Paintballing Video
+slug: paintballing-video
 featured: false
 draft: false
 tags:
   - bonxy
-  - paintballing
-  - vc
+  - cadab
+  - gopro
+  - paintball
+  - pointblank
+description: We used our new GoPro camera yesterday when we went paintballing.
 ---
 
-Found this on @Cadab blog. Its a quick video of me paintballing. 
+We used our new GoPro camera yesterday when we went paintballing. 
+
+My mate [Cadab](http://imjam.es) made this quick video.
 
 [Sam Paintballing](http://vimeo.com/24080494) from [James Coverdale](http://vimeo.com/cadab) on [Vimeo](http://vimeo.com).
 
 A short clip of an attack on the bridge.
 
-[http://imjam.es/?p=64](http://imjam.es/?p=64)
+Its really good quality on the camera especially with it being such an active sport. Shame its on the gun as it does spend alot of the time pointing at the floor but we may buy more cameras to place elsewhere.
+
+What you think ?? Leave us a comment.
+
+Sam!
