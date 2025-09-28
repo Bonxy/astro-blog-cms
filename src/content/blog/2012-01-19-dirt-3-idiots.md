@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - old-wordpress-import
-description: 
+description: "Dirt 3 idiots."
 ---
 
 [![](https://blog.bonxy.net/wp-content/uploads/2012/01/DiRT-3.jpg)](http://bonxy.info/2012/01/19/dirt-3-idiots/dirt-3-2/)
