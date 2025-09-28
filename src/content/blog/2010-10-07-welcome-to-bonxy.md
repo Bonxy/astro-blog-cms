@@ -1,13 +1,13 @@
 ---
-author: Sam WP
+author: Sam
 pubDatetime: 2010-10-07
 title: Welcome to bonxy
 slug: welcome-to-bonxy
-featured: true
+featured: false
 draft: false
 tags:
   - old-wordpress-import
-description: hey there - new blog.
+description: Hey there Hopefully this is going to be an on going blog which is going to be used to log events in my life that i find worthy of this blog
 ---
 
 Hey there. Hopefully this is going to be an on going blog which is going to be used to log events in my life that i find worthy of this blog.
