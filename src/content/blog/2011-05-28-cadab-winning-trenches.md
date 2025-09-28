@@ -1,7 +1,7 @@
 ---
 author: Sam
 pubDatetime: 2011-05-28
-title: @Cadab Winning Trenches
+title: "@Cadab Winning Trenches"
 slug: cadab-winning-trenches
 featured: false
 draft: false
