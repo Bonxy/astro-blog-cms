@@ -1,7 +1,6 @@
 ---
 author: Sam
 pubDatetime: 2011-11-06
-modDatetime: 2025-09-30
 title: Bungee Jump
 slug: bungee-jump
 featured: false
