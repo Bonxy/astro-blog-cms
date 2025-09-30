@@ -8,6 +8,7 @@ draft: false
 tags:
   - old-wordpress-import
   - bungee-jump
+  - transporter-bridge
 description: Today was the day that i jumped from the Transport Bridge in
   middlesbrough and it was fantastic
 ---
