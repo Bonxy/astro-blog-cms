@@ -10,6 +10,11 @@ export const SITE: Site = {
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   headerEmoji: "U+1F680",
+  editPost: {
+    enabled: true,
+    text: "Suggest Changes",
+    url: "https://app.pagescms.org/bonxy/astro-blog-cms/main/collection/posts/edit/src%2Fcontent%2Fblog%2F",
+  },
 };
 
 export const LOCALE = {
