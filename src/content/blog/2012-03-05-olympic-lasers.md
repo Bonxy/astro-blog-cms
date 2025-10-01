@@ -6,7 +6,10 @@ slug: olympic-lasers
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-import-updated
+  - olympic-lasers
+  - lasers
+  - whitley-bay
 description: So at the weekend me and my girlfriend RebekahEsme decided to drive
   to Newcastle to go and see the Olympic Lights...
 ---
