@@ -8,7 +8,8 @@ draft: false
 tags:
   - old-wordpress-fixed
   - fountains-abbey
-description: Fountains Abbey
+description: In a bit of a last minute decision me and @RebekahEsme decided to
+  meet at Ripon and go for a walk around Fountains Abbey.
 ---
 ![](/assets/2012/2012-03-09-rebekah-at-fountains-abbey.jpg)
 
