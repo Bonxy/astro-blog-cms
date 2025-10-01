@@ -6,7 +6,7 @@ slug: olympic-lasers
 featured: false
 draft: false
 tags:
-  - old-wordpress-import-updated
+  - old-wordpress-import-fixed
   - olympic-lasers
   - lasers
   - whitley-bay
