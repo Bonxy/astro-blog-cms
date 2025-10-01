@@ -7,11 +7,14 @@ featured: false
 draft: false
 tags:
   - old-wordpress-fixed
-description: It started late on saturday night After going to the beach on
-  saturday with Cadab and Mikey I went home and stayed in as I knew I was taxi
-  driver that night My ...
+  - rio
+  - rio-angrybirds
+  - beach
+description: It started late on saturday night...After going to the beach on
+  saturday with Cadab and Mikey, i went home and stayed in as I knew I was taxi
+  driver that night.
 ---
-It started late on saturday night. After going to the beach on saturday with [@Cadab](http://imjam.es) and Mikey I went home and stayed in as I knew I was taxi driver that night. My fare? [@RebekahEsme](http://rebekahesme.com). She was out with some of her old uni friends in York for an event called 'Old Jons'. The idea is that everyone who has been to the uni over the years all meet up in York, go to the SU and get wasted, then go to more pubs and get wasted.
+It started late on saturday night. After going to the beach on saturday with [@Cadab](http://imjam.es) and Mikey, I went home and stayed in as I knew I was taxi driver that night. My fare? [@RebekahEsme](http://rebekahesme.com). She was out with some of her old uni friends in York for an event called 'Old Jons'. The idea is that everyone who has been to the uni over the years all meet up in York, go to the SU and get wasted, then go to more pubs and get wasted.
 
 ![](/assets/2012/2012-03-14-Redcar%20and%20Cleveland-20120310-00212.jpg)
 
