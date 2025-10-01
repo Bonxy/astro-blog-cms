@@ -11,7 +11,7 @@ tags:
 description: In a bit of a last minute decision me and @RebekahEsme decided to
   meet at Ripon and go for a walk around Fountains Abbey.
 ---
-![](/assets/2012/2012-03-09-rebekah-at-fountains-abbey.jpg)
+<p style="text-align: right"><img src="/assets/2012/2012-03-09-rebekah-at-fountains-abbey.jpg"></p>
 
 In a bit of a last minute decision me and [@RebekahEsme](http://rebekahesme.com) decided to meet at Ripon and go for a walk around [Fountains Abbey](http://www.fountainsabbey.org.uk/html/visiting/what-to-see/the-abbey).
 
