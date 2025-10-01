@@ -7,6 +7,10 @@ featured: false
 draft: false
 tags:
   - old-wordpress-import-fixed
+  - yorkshire-wildlife-park
+  - wildlife-park
+  - lions
+  - meerkats
 description: RebekahEsme has been pestering me for a while to take her to the
   Yorkshire Wildlife Park which is on the outskirts on Doncaster...
 ---
