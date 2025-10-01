@@ -25,5 +25,3 @@ Here are some of the pictures i took.
 ![](/assets/2012/2012-02-02-into-the-distance_6955329425_l.jpg)
 
 ![](/assets/2012/2012-02-02-whitley-bay_6955328733_l.jpg)
-
-[![](https://blog.bonxy.net/wp-content/uploads/2012/03/IMG-20120304-00186-1024x768.jpg)](http://bonxy.info/2012/03/05/olympic-lasers/img-20120304-00186/)
