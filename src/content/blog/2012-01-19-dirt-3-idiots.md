@@ -6,7 +6,11 @@ slug: dirt-3-idiots
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
+  - dirt3
+  - xbox
+  - codemasters
+  - dirt-3
 description: Dirt 3 idiots.
 ---
 ![](/assets/2012/2012-01-19-dirt-3-banner.jpg)
