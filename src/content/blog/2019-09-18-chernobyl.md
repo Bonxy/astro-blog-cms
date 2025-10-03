@@ -8,6 +8,9 @@ draft: false
 tags:
   - old-wordpress-fixed
   - chernobyl
+  - ukraine
+  - chernobyl-tour
+  - pripyat
 description: My visit to Chernobyl, thoughts and pictures!
 ---
 ![](/assets/2019/2019-09-18-heading-1024x341.png)
