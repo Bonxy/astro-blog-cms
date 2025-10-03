@@ -30,10 +30,10 @@ tags:
   - trains to disney
   - trains to paris
   - village nature paris
-  - old-wordpress-import
-description: Travelling into Paris from Disney Land or surrounding areas isn't as daunting as it looks.
+  - old-wordpress-fixed
+description: Travelling into Paris from Disney Land or surrounding areas isn't
+  as daunting as it looks.
 ---
-
 Travelling into Paris from Disney Land or surrounding areas isn't as daunting as it looks.
 
 Ive recently just stayed at [Center Parcs Villages Nature Paris](https://www.centerparcs.eu/in-en/france/fp_VN_holiday-park-villages-nature-paris) for a week and went to Disneyland and did all things Disney in the area but we also wanted to go into Paris to go and see things like the Eifel Tower, Lourve, Notre Dam etc. So i decided to jot down some notes on how we got there and what lines we used, ticket information etc as we couldn't find much information online.
@@ -56,15 +56,16 @@ Tickets / Navigo Easy Pass
 
 Like a lot of major capitals, you can travel round Paris using an easy pass. You can either get a physical pass from one of the 1000s of ticket machines at station or top up your E-pass on your phone. Depending on the amount of stops you need to make, a day pass might be more suitable for you.
 
-- Single journeys (station to station) £2.50 - kids are normally half price.
+*   Single journeys (station to station) £2.50 - kids are normally half price.
+    
+*   Day pass (excluding stations) £12 - again, kids are normally half price.
+    
 
-- Day pass (excluding stations) £12 - again, kids are normally half price.
-
-*Prices correct as of September, 2025* - [https://www.ratp.fr/en/titres-et-tarifs](https://www.ratp.fr/en/titres-et-tarifs)
+_Prices correct as of September, 2025_ - [https://www.ratp.fr/en/titres-et-tarifs](https://www.ratp.fr/en/titres-et-tarifs)
 
 Notes & After Thoughts
 
-I decided to write this blog based on my own experience and difficuilty of finding some easy information on how to get around Paris. I hope in future it helps someone else. Dont be put off at the thought of travelling around the French capital. There are so many great sites to see and it doesnt have to be scary. The above worked for me, travelling with a 6 year old. There were a few times when strangers *squeezed* through the barrier behind us (fare evading) but we didn't say anything, we just carried on as normal and let people do their own thing.
+I decided to write this blog based on my own experience and difficuilty of finding some easy information on how to get around Paris. I hope in future it helps someone else. Dont be put off at the thought of travelling around the French capital. There are so many great sites to see and it doesnt have to be scary. The above worked for me, travelling with a 6 year old. There were a few times when strangers _squeezed_ through the barrier behind us (fare evading) but we didn't say anything, we just carried on as normal and let people do their own thing.
 
 ![RER C Train Line](https://i.imgur.com/nCGESio.png)
 
