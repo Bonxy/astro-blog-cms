@@ -18,7 +18,7 @@ So, having always had an interest in coding and building websites etc I've decid
 
 I'm hoping i can keep track of my progress in this blog and hopefully in the next couple of months have a functioning app that does what i need it to do.
 
-The Idea
+### The Idea
 
 Since ive always had an interest in fitness related apps and website and tracking them stats, a simple step leaderboard seems the perfect place to start.
 
