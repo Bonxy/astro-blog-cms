@@ -12,6 +12,8 @@ tags:
   - vauxhall-mokka-e
 description: Soo ive joined the electric car club and bought myself a Vauxhall Mokka E
 ---
+## ![header image](/assets/2022/2022-09-09-electric-car-club-header-image.jpg)
+
 ## Hello EV.
 
 Soo ive joined the electric car club. Well, i joined it in October last year but yeh, I traded in the Mini and bought myself a **Vauxhall Mokka E**.
@@ -26,7 +28,7 @@ So yeh, the car does save me quite a bit of money. I'm charging it roughly twice
 
 Well, this was always a concern. I had not done anything over 150 mile round trip in the 11 months of owning the car up until last week. I was going to be driving to Worcester from Teesside. The journey was going to be roughly 220 miles so i knew id need to plan a charge in somewhere. I found a Tesco not far off my route which had some fast charges and planned to stop there. Upon arriving, there was a bank of chargers with plenty spare. I charged the car up to 80% in about 20 minutes whilst we went in Tesco buy some snacks and use the facilities. On the way back we stopped at the same spot to charge which worked perfectly again.
 
-![](/assets/2022/2022-09-09-electric-car-club-vauxhall-mokka-e.png)
+![my mokka e fast charging](/assets/2022/2022-09-09-electric-car-club-vauxhall-mokka-e.png)
 
 ### Overall
 
