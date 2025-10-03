@@ -10,7 +10,11 @@ tags:
   - mokka-e
   - electric-car
   - vauxhall-mokka-e
-description: Soo ive joined the electric car club and bought myself a Vauxhall Mokka E
+  - electric-car-club
+  - electric-vehicle
+  - vauxhall-mokka
+  - mokka-adventures
+description: "Soo ive joined the electric car club and bought myself a Vauxhall Mokka E!"
 ---
 ## ![header image](/assets/2022/2022-09-09-electric-car-club-header-image.jpg)
 
