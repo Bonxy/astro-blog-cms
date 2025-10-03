@@ -6,7 +6,7 @@ slug: bungee-jump
 featured: false
 draft: false
 tags:
-  - old-wordpress-import-fixed
+  - old-wordpress-fixed
   - bungee-jump
   - transporter-bridge
 description: Today was the day that i jumped from the Transport Bridge in
