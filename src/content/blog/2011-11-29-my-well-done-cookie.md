@@ -6,7 +6,7 @@ slug: my-well-done-cookie
 featured: false
 draft: false
 tags:
-  - old-wordpress-import-fixed
+  - old-wordpress-fixed
   - well done cookie
   - am2
   - apprenticeship
