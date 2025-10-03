@@ -6,7 +6,7 @@ slug: yorkshire-wildlife-park-visit
 featured: false
 draft: false
 tags:
-  - old-wordpress-import-fixed
+  - old-wordpress-fixed
   - yorkshire-wildlife-park
   - wildlife-park
   - lions
