@@ -52,14 +52,9 @@ Hopefully this walk will improve our fitness a bit ready for next weekends Cleve
 
 **Some Fitbit Data**
 
-Duration Steps Distance Pace Altitude Heart Rate
-
-6h 12m 25s 35,061 16.18 Miles 23'01" 2,236 94 bpm
-
-| Duration | Steps | Distance |
-| --- | --- | --- |
-| 6h 12m 25s | 35,061 | 16.18 Miles |
-|     |     |     |
+| Duration | Steps | Distance | Pace | Altitude | Heart Rate |
+| --- | --- | --- | --- | --- | --- |
+| 6h 12m 25s | 35,061 | 16.18 Miles | 23'01" | 2,236 | 94 bpm |
 
 ![](https://blog.bonxy.net/wp-content/uploads/2017/03/Screenshot-2017-03-18-at-23.38.31-1024x526.png)
 
