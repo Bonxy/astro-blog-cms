@@ -6,7 +6,7 @@ slug: xbox-achievements-plugin
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - xbonx
   - plugins
 description: As some of you may know i built a site http://xbonx.com which tracks gamertags.
