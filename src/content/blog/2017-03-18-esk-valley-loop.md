@@ -6,10 +6,18 @@ slug: esk-valley-loop
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
-description: So an early start on Saturday saw us heading further afield into the North Yorkshire moors
+  - old-wordpress-fixed
+  - walking
+  - hiking
+  - outdoors
+  - esk-valley-loop
+  - esk-valley-railway
+  - north-yorkshire-moors
+  - north-yorkshire
+  - yorkshire-moors
+description: So an early start on Saturday saw us heading further afield into
+  the North Yorkshire moors
 ---
-
 So an early start on Saturday saw us heading further afield into the North Yorkshire moors. 
 
 The destination was Castleton Station over in Eskdale, North Yorkshire. The Esk Valley Loop is a famous walk around some beautiful places in the North Yorkshire moors. A ~16 mile loop, some of it along the old [Esk Valley Railway](http://www.eskvalleyrailway.co.uk/). 
@@ -22,7 +30,7 @@ Although 16 mile is a lot of distance to cover, the walk is quite easy with the 
 
 Roughly 6 mile into the walk you come across [The Lion Inn](http://www.lionblakey.co.uk/). Situated just off the road is a beautifully set good ol' English pub.
 
-A quick pit stop in the form of a *pint* and we were back on our way. This time walking down the old railway track. This is where you can make up some ground from the pub pit stop as the paths are good. 
+A quick pit stop in the form of a _pint_ and we were back on our way. This time walking down the old railway track. This is where you can make up some ground from the pub pit stop as the paths are good. 
 
 ![](https://blog.bonxy.net/wp-content/uploads/2017/03/img_7511-1024x768.jpg)
 
@@ -38,80 +46,57 @@ There is plenty of moments around the Esk Valley Loop where you can just stop an
 
 With the finish line in site you do have to walk on the road a bit (roughly 100 meters) but that's all. 
 
-Hopefully this walk will improve our fitness a bit ready for next weekends Cleveland Mountain Rescue Survival. *Fingers Crossed!! ?*
+Hopefully this walk will improve our fitness a bit ready for next weekends Cleveland Mountain Rescue Survival. _Fingers Crossed!! ?_
 
 ![](https://blog.bonxy.net/wp-content/uploads/2017/03/img_7516-1024x768.jpg)
 
 **Some Fitbit Data**
 
-Duration
-Steps
-Distance
-Pace
-Altitude
-Heart Rate
+Duration Steps Distance Pace Altitude Heart Rate
 
-6h 12m 25s
-35,061
-16.18 Miles
-23'01"
-2,236
-94 bpm
+6h 12m 25s 35,061 16.18 Miles 23'01" 2,236 94 bpm
+
+| Duration | Steps | Distance |
+| --- | --- | --- |
+| 6h 12m 25s | 35,061 | 16.18 Miles |
+|     |     |     |
 
 ![](https://blog.bonxy.net/wp-content/uploads/2017/03/Screenshot-2017-03-18-at-23.38.31-1024x526.png)
 
-Mile
-Pace
+Mile Pace
 
-1
-22'40"
+1 22'40"
 
-2
-22'01"
+2 22'01"
 
-3
-21'45"
+3 21'45"
 
-4
-28'05"
+4 28'05"
 
-5
-22'44"
+5 22'44"
 
-6
-22'21"
+6 22'21"
 
-7
-18'57"
+7 18'57"
 
-8
-19'28"
+8 19'28"
 
-9
-18'53"
+9 18'53"
 
-10
-21'07"
+10 21'07"
 
-11
-32'26"
+11 32'26"
 
-12
-26'43"
+12 26'43"
 
-13
-21'01"
+13 21'01"
 
-14
-22'08"
+14 22'08"
 
-15
-23'59"
+15 23'59"
 
-16
-24'21"
+16 24'21"
 
-0.17
-20'41"
+0.17 20'41"
 
 ![](https://blog.bonxy.net/wp-content/uploads/2017/03/Screenshot-2017-03-18-at-23.37.39-1024x530.png)
