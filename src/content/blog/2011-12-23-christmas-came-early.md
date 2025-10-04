@@ -6,7 +6,7 @@ slug: christmas-came-early
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - rc
   - rc-helicopter
   - remote-control-helicopter
