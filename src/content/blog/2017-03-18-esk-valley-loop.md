@@ -6,7 +6,7 @@ slug: esk-valley-loop
 featured: false
 draft: false
 tags:
-  - old-wordpress-fixed
+  - old-wordpress-import
   - walking
   - hiking
   - outdoors
