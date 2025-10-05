@@ -6,21 +6,33 @@ slug: my-mini-adventure
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
-description: So after months of searching for the perfect Mini Cooper S for myself i finally found and purchased the perfect one
+  - old-wordpress-fixed
+  - mini
+  - mini-adventure
+  - new-mini
+  - mini-cooper-s
+  - cooper-s
+  - oxford
+description: So after months of searching for the perfect Mini Cooper S for
+  myself i finally found and purchased the perfect one
 ---
+After months of searching for the perfect Mini Cooper S for myself, I finally found and purchased the perfect one.
 
-So after months of searching for the perfect Mini Cooper S for myself i finally found and purchased the perfect one!
+[![Red Cooper S](/assets/2013/2013-11-24-my-new-cooper-s-1.jpg)](http://www.flickr.com/photos/bonx/10522179723)
 
-[![Mini Cooper S](http://farm8.staticflickr.com/7343/10522179723_ff4bb8f2fb_z.jpg)](http://www.flickr.com/photos/bonx/10522179723/)
+Red Cooper S. Bought with 45,000 miles.
 
-Red Cooper S. Bought with 45,000 miles. 
- - Electric Wing Mirrors
- - Electric Heated Leather Seats
- - Front Spot Lights
- - Union Jack Decal
- - 17 inch 8 Spoke Alloys
+*   Electric Wing Mirrors
+    
+*   Electric Heated Leather Seats
+    
+*   Front Spot Lights
+    
+*   Union Jack Decal
+    
+*   17-inch 8 Spoke Alloys
+    
 
-I Love It!!
+**I Love It!!**
 
-[![Mini Cooper S](http://farm3.staticflickr.com/2821/10522003655_0bf74ba34a_z.jpg)](http://www.flickr.com/photos/bonx/10522003655/)
+[![Red Mini Cooper S](/assets/2013/2013-11-24-my-new-cooper-s.jpg)](http://www.flickr.com/photos/bonx/10522003655)
