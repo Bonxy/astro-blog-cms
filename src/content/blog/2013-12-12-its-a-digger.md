@@ -6,7 +6,8 @@ slug: its-a-digger
 featured: false
 draft: false
 tags:
-  - old-wordpress-fixed
+  - old-wordpress-import
+  - image-names-need-fixing
   - lego
   - lego-technic
   - lego-excavator
