@@ -15,7 +15,7 @@ tags:
   - volvo
   - volvo-l350f
 description: I managed to get my hands on the new Lego Volvo L350f Front Loader
-  and i think it could be Legos best set yet!
+  (42030) and i think it could be Legos best set yet!
 ---
 *   **Title** - Volvo L350f Front Loader
     
