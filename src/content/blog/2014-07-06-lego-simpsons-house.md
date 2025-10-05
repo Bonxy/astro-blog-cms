@@ -6,7 +6,7 @@ slug: lego-simpsons-house
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - lego
   - lego-simpsons
   - simpsons
