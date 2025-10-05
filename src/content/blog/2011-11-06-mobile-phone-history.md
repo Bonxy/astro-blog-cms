@@ -12,6 +12,9 @@ tags:
   - iphone
   - blackberry
   - windows-phone
+  - nokia
+  - nokia-3310
+  - htc
 description: After my antics with my Blackberry last weekend I decided to throw
   together a quick post on my mobile phone history through my life
 ---
