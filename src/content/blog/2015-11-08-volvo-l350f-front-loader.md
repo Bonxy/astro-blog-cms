@@ -1,8 +1,8 @@
 ---
 author: Sam
 pubDatetime: 2015-11-08
-title: Volvo L350f Front Loader
-slug: volvo-front-loader
+title: Lego Volvo L350f Front Loader
+slug: lego-volvo-front-loader
 featured: false
 draft: false
 tags:
