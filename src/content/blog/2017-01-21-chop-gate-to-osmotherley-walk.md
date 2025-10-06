@@ -33,4 +33,4 @@ Here is some data tracked from my Fitbit.
 
 ![](/assets/2017/2017-01-21-chop-gate-to-osmotherly-IMG_6896.JPG)
 
-![](https://cloud.bonxy.net/blog/2017-01-21-chop-gate-to-osmotherley-hugo-and-millie.gif)
+<p style="text-align: center"><img src="https://cloud.bonxy.net/blog/2017-01-21-chop-gate-to-osmotherley-hugo-and-millie.gif" alt=""></p>
