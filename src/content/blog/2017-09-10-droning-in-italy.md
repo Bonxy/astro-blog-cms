@@ -7,9 +7,14 @@ featured: false
 draft: false
 tags:
   - old-wordpress-import
-description: In August me and RebekahEsme where in the car starting our road trip across Europe towards Italy for a family wedding
+  - droning
+  - just-droning
+  - justdroning
+  - italy
+  - aviewfromabove
+description: In August me and RebekahEsme where in the car starting our road
+  trip across Europe towards Italy for a family wedding
 ---
-
 In August, me and [@RebekahEsme](http://rebekahesme.com) where in the car starting our road trip across Europe towards Italy for a family wedding.
 
 It didnt take me much persuading to pack the drone in the boot of the car. I managed to get a few flights in and around our villa ([Villa Baroncino](https://www.villabaroncino.com/)) located near Perugia which is about 100 mile north of Rome.
