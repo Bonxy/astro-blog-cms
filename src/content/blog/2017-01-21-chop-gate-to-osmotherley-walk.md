@@ -28,3 +28,9 @@ Here is some data tracked from my Fitbit.
 | Duration | Steps | Distance | Pace | Altitude | Heart Rate |
 | --- | --- | --- | --- | --- | --- |
 | 3h 29m 01s | 20,087 | 9.0 Miles | 23'13" | 2,210 | 93 bpm |
+
+![](/assets/2017/2017-01-21-chop-gate-to-osmotherly-IMG_6893.JPG)
+
+![](/assets/2017/2017-01-21-chop-gate-to-osmotherly-IMG_6896.JPG)
+
+![](/Bonxy.png)
