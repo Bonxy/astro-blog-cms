@@ -18,21 +18,42 @@ description: Im not the best at stringing sentences together so here is a little
   write-up of mine and @Cadab's climb of Carrauntoohil, County Kerry,
   Ireland....
 ---
-I'm not the best at stringing sentences together, so here is a little write-up of mine and @Cadab's climb of **_Carrauntoohil_**, County Kerry, Ireland.
+## Climbing Carrauntoohil in 24 Hours – A Quick and Wild Irish Adventure
 
-An early start on a cold November Friday saw us heading to Leeds Bradford Airport to catch our cheap Ryanair flight to Dublin. We arrived in Dublin around 7.30 and had collected our Renault Clio hire car by 8.00.
+I'm not the best at stringing sentences together, but I wanted to share a quick write-up of mine and @Cadab’s climb of **Carrauntoohil**, the highest peak in Ireland, located in **County Kerry**.
 
-Once we had picked up some supplies from a local Tesco (water, fruit, sandwiches and treats) and then a quick McDonald's breakfast, we embarked on our 4-hour, 207-mile (333 km) drive to Carrauntoohil.
+### ✈️ The Journey Begins
 
-We parked at a place called [Cronins Yard](https://maps.app.goo.gl/5kHXy8unJyxdwnX37), which gave us a really walk until we started the climb towards the peak. The climb up Devils Ladder was quite sketchy, the path was loose stones which came away under footing and their was times were we scrambled on all fours. All part of the adventure i guess!
+We had an early start on a cold Friday morning in November, heading to **Leeds Bradford Airport** to catch a budget Ryanair flight to **Dublin**. We landed around 7:30 AM and had collected our **Renault Clio** hire car by 8:00.
 
-Once we had reached the top of Devils Ladder, you could see the peak wasn't far to go but there was quite a bit of snow up the top. Luckily we had packed well for the time of the year and we marched on onto the peak.
+After a quick Tesco run for supplies (water, fruit, sandwiches, and a few treats), plus a classic McDonald's breakfast, we hit the road for a **4-hour, 207-mile (333 km)** drive to Carrauntoohil.
 
-The views from the peak where lush as you can see from some of the photos below. With winter day light fading we made our decent and got back to the car before the tempreture finally dropped and the sun went in.
+### 🚶‍♂️ The Climb
 
-We stopped on the way home in a little town for some beers and food but unfortunatly @Cadab wasnt feeling too well. We jumped in the rental and headed back on the 4h drive to dublin getting towards the airport at around ~1AM. We parked in a Tesco carpark and got our heads down for a couple of hours before having to drop the car off and jumping on the early saturday morning flight to Leeds Bradford Airport.
+We parked at **Cronin's Yard**, which gave us a scenic and steady walk to warm up before the real climb began.
 
-Overall, our adventure to climb Carrauntoohil was brilliant. Trying to squeeze it all in within 24hrs was a challenge in itself but adding climbing to the top of one of Irelands highest peaks was another level. Still, would 100% do it again.
+The ascent via **Devil’s Ladder** was pretty sketchy. The trail was full of loose stones that shifted underfoot, and at times we were scrambling on all fours. All part of the adventure, I guess!
+
+Once we reached the top of Devil's Ladder, the summit looked close — but the final stretch had quite a bit of snow. Luckily, we’d packed well for the conditions and pushed on.
+
+### 🏔 The Summit
+
+The views from the top were **absolutely stunning**, as you’ll see from some of the photos below. Snow-capped ridges, crisp air, and total silence. Worth every step.
+
+With daylight fading fast (thanks, Irish winter), we began our descent and made it back to the car just before the temperature dropped and the sun fully set.
+
+### 🍻 The Return
+
+We stopped in a small town on the way back for a quick bite and a few beers, but @Cadab wasn’t feeling too great. So we hit the road again, arriving back near Dublin Airport around 1 AM.
+
+We parked in a Tesco car park (budget travellers, after all) and managed a few hours of sleep before returning the hire car and catching our **early Saturday morning flight** back to Leeds Bradford.
+
+### 🙌 Final Thoughts
+
+Climbing Carrauntoohil was an **amazing experience**, and trying to do it all within 24 hours made it even more memorable. Between the travel, the climb, and the chaos — it was one for the books.
+
+Would I do it again?  
+**Absolutely. 100%.**
 
 ![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6105.JPG)
 
