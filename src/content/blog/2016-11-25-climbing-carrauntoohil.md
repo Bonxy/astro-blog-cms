@@ -1,7 +1,7 @@
 ---
 author: Sam
 pubDatetime: 2016-11-25
-title: Climbing Carrauntoohil
+title: Climbing Carrauntoohil in 24 Hours
 slug: climbing-carrauntoohil
 featured: false
 draft: false
@@ -18,7 +18,7 @@ description: Im not the best at stringing sentences together so here is a little
   write-up of mine and @Cadab's climb of Carrauntoohil, County Kerry,
   Ireland....
 ---
-## Climbing Carrauntoohil in 24 Hours – A Quick and Wild Irish Adventure
+## A Quick and Wild Irish Adventure
 
 I'm not the best at stringing sentences together, but I wanted to share a quick write-up of mine and @Cadab’s climb of **Carrauntoohil**, the highest peak in Ireland, located in **County Kerry**.
 
@@ -100,6 +100,6 @@ Would I do it again?
 
 ![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6133.JPG)
 
-![Geocache at the top!](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6142.JPG)
+[![Geocache at the top!](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6142.JPG)](https://coord.info/GCJ39P)
 
 *   _Sneaky Geocache at the top -_ [**_Corran Tuathail (Ireland's Highest Cache)_**](https://coord.info/GCJ39P)
