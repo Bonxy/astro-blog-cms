@@ -25,11 +25,6 @@ We started our hike at 8:31 a,m and our total duration was 3hr 30mins.
 
 Here is some data tracked from my Fitbit.
 
-| Duration | Steps | Distance |
-| --- | --- | --- |
-| 3h 29m 01s | 20,087 | 9.0 Miles |
-|     |     |     |
-
-Duration Steps Distance Pace Altitude Heart Rate
-
-23'13" 2,210 93 bpm
+| Duration | Steps | Distance | Pace | Altitude | Heart Rate |
+| --- | --- | --- | --- | --- | --- |
+| 3h 29m 01s | 20,087 | 9.0 Miles | 23'13" | 2,210 | 93 bpm |
