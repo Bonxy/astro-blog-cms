@@ -13,6 +13,8 @@ tags:
   - infinity-bridge
   - infinity-bridge-stockton
   - stockton-on-tees
+  - just-droning
+  - justdroning
 description: So i hadnt used the drone in a few weeks and in decided to stretch its legs
 ---
 So I hadn't used the drone in a few weeks and decided to stretch its legs. It was late, but I had never flown the drone in the dark.
