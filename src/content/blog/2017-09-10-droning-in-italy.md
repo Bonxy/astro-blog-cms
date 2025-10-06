@@ -29,18 +29,18 @@ I did have a bit of trouble with the drone while I was over in Italy. Every time
 
 The only remedy i could find was to take a 10 minute walk down the driveway of the Villa and take off near the gates and then fly back.
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0027.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0027.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0029.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0029.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0076.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0076.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0078.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0078.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0085.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0085.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0082.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0082.JPG)
 
-![](/assets/2017/2017-09-10-droning-in-italy-IMG_0081.JPG)
+![Droning in Italy](/assets/2017/2017-09-10-droning-in-italy-IMG_0081.JPG)
 
 You can find more pictures of my travels and other content on my Instagram - [https://instagram.com/JustDroning-](https://instagram.com/JustDroning) or like photos on my Facebook - [https://www.facebook.com/JustDroning](https://www.facebook.com/JustDroning).
