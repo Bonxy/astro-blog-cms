@@ -60,8 +60,6 @@ Once we had picked up some supplies from a local Tesco (water, fruit, sandwiches
 
 ![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6129.JPG)
 
-![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6132.JPG)
-
 ![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6153.JPG)
 
 ![Me & Jammy at the top!](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6145.JPG)
