@@ -18,7 +18,7 @@ description: Im not the best at stringing sentences together so here is a little
   write-up of mine and @Cadab's climb of Carrauntoohil, County Kerry,
   Ireland....
 ---
-## A Quick and Wild Irish Adventure
+## Climbing Carrauntoohil in 24 Hours - A Quick and Wild Irish Adventure
 
 I'm not the best at stringing sentences together, but I wanted to share a quick write-up of mine and @Cadab’s climb of **Carrauntoohil**, the highest peak in Ireland, located in **County Kerry**.
 
