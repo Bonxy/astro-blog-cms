@@ -24,7 +24,15 @@ An early start on a cold November Friday saw us heading to Leeds Bradford Airpor
 
 Once we had picked up some supplies from a local Tesco (water, fruit, sandwiches and treats) and then a quick McDonald's breakfast, we embarked on our 4-hour, 207-mile (333 km) drive to Carrauntoohil.
 
-We parked at a place called [Cronins Yard](https://maps.app.goo.gl/5kHXy8unJyxdwnX37),
+We parked at a place called [Cronins Yard](https://maps.app.goo.gl/5kHXy8unJyxdwnX37), which gave us a really walk until we started the climb towards the peak. The climb up Devils Ladder was quite sketchy, the path was loose stones which came away under footing and their was times were we scrambled on all fours. All part of the adventure i guess!
+
+Once we had reached the top of Devils Ladder, you could see the peak wasn't far to go but there was quite a bit of snow up the top. Luckily we had packed well for the time of the year and we marched on onto the peak.
+
+The views from the peak where lush as you can see from some of the photos below. With winter day light fading we made our decent and got back to the car before the tempreture finally dropped and the sun went in.
+
+We stopped on the way home in a little town for some beers and food but unfortunatly @Cadab wasnt feeling too well. We jumped in the rental and headed back on the 4h drive to dublin getting towards the airport at around ~1AM. We parked in a Tesco carpark and got our heads down for a couple of hours before having to drop the car off and jumping on the early saturday morning flight to Leeds Bradford Airport.
+
+Overall, our adventure to climb Carrauntoohil was brilliant. Trying to squeeze it all in within 24hrs was a challenge in itself but adding climbing to the top of one of Irelands highest peaks was another level. Still, would 100% do it again.
 
 ![](/assets/2016/2016-11-25-climbing-carauntoohil-IMG_6105.JPG)
 
