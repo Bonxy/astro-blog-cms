@@ -7,7 +7,6 @@ featured: false
 draft: false
 tags:
   - old-wordpress-fixed
-  - could-write-more
   - carrauntoohil
   - hiking
   - walking
