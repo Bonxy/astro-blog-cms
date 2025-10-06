@@ -14,6 +14,7 @@ tags:
   - osmotherley
   - hugo
   - dog-walk
+  - millie
 description: So we took the dogs on a point-to-point from Chop Gate to Sheepwash
   Osmotherley...
 ---
