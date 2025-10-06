@@ -1,6 +1,6 @@
 ---
 author: Sam
-pubDatetime: 2016-11-17
+pubDatetime: 2012-04-06
 title: Good Friday? Yes it was!
 slug: good-friday-yes-it-was
 featured: false
