@@ -6,7 +6,7 @@ slug: droning-in-italy
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - droning
   - just-droning
   - justdroning
