@@ -11,7 +11,7 @@ tags:
   - bbq
   - camping
   - could-write-more
-description: First BBQ of the year - Check
+description: First BBQ of the year? - Check
 ---
 First BBQ of the year? - Check!
 
