@@ -8,7 +8,8 @@ draft: false
 tags:
   - old-wordpress-import
   - north-yorkshire-moors
-description: A 16.6-mile 26.8 km hike around the North Yorkshire Moors, where the average temperature was 4℃...
+description: A 16.6-mile 26.8 km hike around the North Yorkshire Moors, where
+  the average temperature was 4℃...
 ---
 A 16.6-mile (26.8 km) hike around the North Yorkshire Moors, where the average temperature was 4℃.
 
@@ -40,7 +41,7 @@ We managed an average pace of 1.318kph with a max of 3.6kph whilst also climbing
 
 ![](https://dgtzuqphqg23d.cloudfront.net/6azPzkW9MJlTb20xnZjEGj2xoRwioeFZzmssSETCv_4-1024x768.jpg)
 
-`A morning hike around the North Yorkshire Moors through Hawnby and Hazel Head Wood.`
+> A morning hike around the North Yorkshire Moors through Hawnby and Hazel Head Wood.
 
 | split | distance | time | avg speed | avg hr |
 | --- | --- | --- | --- | --- |
