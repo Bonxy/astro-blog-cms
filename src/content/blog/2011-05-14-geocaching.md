@@ -4,7 +4,7 @@ pubDatetime: 2011-05-14
 title: Geocaching
 slug: geocaching
 featured: false
-draft: false
+draft: true
 tags:
   - old-wordpress-import
 description: Went to visit an old geocache and decided to get a quick photo
