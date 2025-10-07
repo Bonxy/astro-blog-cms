@@ -12,6 +12,7 @@ tags:
   - spudnick-mkll
   - youtube-videos
   - youtube
+  - messing-about
 description: This is our BETA testing of Spudnick MKII
 ---
 This is our BETA testing of Spudnick MKII.
