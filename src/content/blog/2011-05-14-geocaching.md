@@ -9,8 +9,7 @@ tags:
   - old-wordpress-import
 description: Went to visit an old geocache and decided to get a quick photo
 ---
-
-Went to visit an old geocache and decided to get a quick photo. 
+Went to visit an old geocache and decided to get a quick photo.
 
 ![Geocache](http://farm4.static.flickr.com/3326/5719334249_5878e9cea2_z.jpg)
 
@@ -25,3 +24,5 @@ Good day seeing it again. Good views around the area to.....
 :P
 
 Sam.
+
+*   **need to investigate where orignal photos are.**
