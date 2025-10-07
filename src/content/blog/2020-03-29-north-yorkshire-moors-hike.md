@@ -47,7 +47,7 @@ We managed an average pace of 1.318kph with a max of 3.6kph whilst also climbing
 
 ![](https://dgtzuqphqg23d.cloudfront.net/IAJ9VsCxX_j17blWM8YjRIEc4l4jyjhOF4pPOcj3WVc-768x1024.jpg)
 
-![](https://dgtzuqphqg23d.cloudfront.net/6azPzkW9MJlTb20xnZjEGj2xoRwioeFZzmssSETCv_4-1024x768.jpg)
+# ![](https://dgtzuqphqg23d.cloudfront.net/6azPzkW9MJlTb20xnZjEGj2xoRwioeFZzmssSETCv_4-1024x768.jpg)
 
 > A morning hike around the North Yorkshire Moors through Hawnby and Hazel Head Wood.
 
