@@ -6,10 +6,16 @@ slug: spudnick-mkii
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
+  - spud-gun
+  - spudnick
+  - spudnick-mkll
+  - youtube-videos
+  - youtube
 description: This is our BETA testing of Spudnick MKII
 ---
-
 This is our BETA testing of Spudnick MKII.
 
-https://youtu.be/6pNnYnIGs38?si=TYZTN-Zo1qIWt33u
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=6pNnYnIGs38"><img src="/assets/2011/2011-05-25-spudnick-mkll-testing.jpg" alt="Spudnick MKll Video"></a></p>
+
+*   You can check out the video by clicking this link: [https://www.youtube.com/watch?v=6pNnYnIGs38](https://www.youtube.com/watch?v=6pNnYnIGs38)
