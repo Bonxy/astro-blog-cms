@@ -6,8 +6,16 @@ slug: north-yorkshire-moors-hike
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - north-yorkshire-moors
+  - hazel-head-wood
+  - hawnby
+  - hiking
+  - walking
+  - dogs
+  - bourbon
+  - millie
+  - jammy
 description: A 16.6-mile 26.8 km hike around the North Yorkshire Moors, where
   the average temperature was 4℃...
 ---
