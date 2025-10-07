@@ -21,7 +21,7 @@ description: A 16.6-mile 26.8 km hike around the North Yorkshire Moors, where
 ---
 A 16.6-mile (26.8 km) hike around the North Yorkshire Moors, where the average temperature was 4℃.
 
-We started at 9:00 on Saturday, and altogether the hike took 6h 22m 22s to complete.
+We started at 9:00am on Saturday, and altogether the hike took 6h 22m 22s to complete.
 
 We managed an average pace of 1.318kph with a max of 3.6kph whilst also climbing 390.3 meters of elevation and an average heart rate of 127.9bpm.
 
