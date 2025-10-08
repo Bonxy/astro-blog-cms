@@ -54,14 +54,14 @@ Once reaching the [8 switchbacks](http://www.cromwell-intl.com/travel/uk/ben-nev
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0761.JPG)
 
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0783.JPG)
-
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0775.JPG)
-
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0765.JPG)
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0769.JPG)
 
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0775.JPG)
+
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0776.JPG)
+
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0783.JPG)
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0794.JPG)
