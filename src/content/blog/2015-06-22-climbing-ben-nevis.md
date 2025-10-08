@@ -20,7 +20,10 @@ I've always wanted to challenge myself and see how far I could push myself to do
 
 I've done this and number #3 on my bucketlist ([http://bonxy.info/bucketlist](http://Bonxy.info/bucketlist)) was to climb a mountain.
 
-**Ben Nevis**![](http://www.african-initiatives.org.uk/assets/Ben-Nevis-Challenge.jpg)
+**Ben Nevis**
+
+*   ![](http://www.african-initiatives.org.uk/assets/Ben-Nevis-Challenge.jpg)
+    
 
 ```
 - The tallest mountain in the UK
