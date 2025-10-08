@@ -22,20 +22,12 @@ I've done this and number #3 on my bucketlist ([http://bonxy.info/bucketlist](ht
 
 **Ben Nevis**
 
-*   ![](http://www.african-initiatives.org.uk/assets/Ben-Nevis-Challenge.jpg)
-    
-
-```
-- The tallest mountain in the UK
-
-- 4,600 ft high.
-
-- An average round trip of 15 miles.
-
-- 110,000 people summit Ben Nevis every year.
-
-- Part of the Three Peaks challenge.
-```
+*   ![PDF](http://www.african-initiatives.org.uk/assets/Ben-Nevis-Challenge.jpg)
+*   The tallest mountain in the UK
+*   4,600 ft high.
+*   An average round trip of 15 miles.
+*   110,000 people summit Ben Nevis every year.
+*   Part of the Three Peaks challenge.
 
 Most people you speak to know about Ben Nevis. It's not the hardest mountain to climb. A lot of it is designated footpaths with some routes harder than others. There is no time restrictions and you can stop as much as you like. I saw a wide range of people the day I climbed from 6 to 60 years old.
 
