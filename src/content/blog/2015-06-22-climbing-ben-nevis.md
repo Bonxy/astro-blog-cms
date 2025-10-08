@@ -44,24 +44,24 @@ Before this, I had done **zero** training. I'd say I'm an active person, I hav
 
 Once reaching the [8 switchbacks](http://www.cromwell-intl.com/travel/uk/ben-nevis/) we knew this is when the proper _climbing_ started.
 
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0794.JPG)
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0750.JPG)
+
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0749.JPG)
+
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0751.JPG)
+
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0755.JPG)
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0761.JPG)
 
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0750.JPG)
-
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0783.JPG)
-
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0749.JPG)
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0775.JPG)
 
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0765.JPG)
 
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0751.JPG)
-
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0769.JPG)
 
-![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0755.JPG)
-
 ![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0776.JPG)
+
+![](/assets/2015/2015-06-20-climbing-ben-nevis-IMG_0794.JPG)
