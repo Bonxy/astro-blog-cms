@@ -22,7 +22,6 @@ I've done this and number #3 on my bucketlist ([http://bonxy.info/bucketlist](ht
 
 **Ben Nevis**
 
-*   ![PDF](http://www.african-initiatives.org.uk/assets/Ben-Nevis-Challenge.jpg)
 *   The tallest mountain in the UK
 *   4,600 ft high.
 *   An average round trip of 15 miles.
