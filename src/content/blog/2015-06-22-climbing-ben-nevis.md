@@ -1,6 +1,6 @@
 ---
 author: Sam
-pubDatetime: 2015-09-16
+pubDatetime: 2015-06-22
 title: Climbing Ben Nevis
 slug: climbing-ben-nevis
 featured: false
