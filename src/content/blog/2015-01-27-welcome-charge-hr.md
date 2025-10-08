@@ -6,10 +6,11 @@ slug: welcome-charge-hr
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - fitbit
   - charge-hr
   - fitbit-charge
+  - activity-tracker
 description: RSo after owning my Fitbit Flex since March 14 and accumulating a
   mass total of 2,817,405 i decided it was time for an upgrade!
 ---
