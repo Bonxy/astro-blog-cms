@@ -13,6 +13,8 @@ tags:
 - walking
 - hiking
 - dogs
+- borby
+- rolo
 - w/-laura
 description: So Friday started with a 7.9-mile (12.8 km) hike around Malham Cove / Gordale Scar / Janets Foss Loop, where the average temperature was 25℃.
 ---
