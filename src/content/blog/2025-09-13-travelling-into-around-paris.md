@@ -66,3 +66,7 @@ _Prices correct as of September 2025_ - [https://www.ratp.fr/en/titres-et-tarifs
 ## Notes & After Thoughts
 
 I decided to write this blog based on my own experience and the difficulty of finding some easy information on how to get around Paris. I hope that in future it helps someone else. Don't be put off by the thought of travelling around the French capital. There are so many great sites to see, and it doesn't have to be scary. The above worked for me, travelling with a 6-year-old. There were a few times when strangers _squeezed_ through the barrier behind us (fare evading), but we didn't say anything; we just carried on as normal and let people do their own thing.
+
+![](/assets/2025/2025-09-13-travelling-around-paris-by-train-underground-train.png)
+
+![](/assets/2025/2025-09-13-travelling-around-paris-by-train-underground-station.png)
