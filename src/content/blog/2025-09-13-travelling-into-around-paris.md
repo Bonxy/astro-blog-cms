@@ -7,29 +7,29 @@ featured: false
 draft: false
 tags:
   - austerlitz
-  - center parcs
+  - center-parcs
   - chessy
   - disney
-  - disney land
+  - disney-land
   - disneyland
-  - disneyland paris
-  - eifel tower
-  - gare de lyon
-  - marne la vallee
-  - marne la vallee chessy
-  - nature paris
-  - notre dam
+  - disneyland-paris
+  - eifel-tower
+  - gare-de-lyon
+  - marne-la-vallee
+  - marne-la-vallee-chessy
+  - nature-paris
+  - notre-dam
   - paris
-  - paris austerlitz
-  - paris to disney
+  - paris-austerlitz
+  - paris-to-disney
   - RER
-  - RER A
-  - RER C
-  - the lourve
-  - train to eifel tower
-  - trains to disney
-  - trains to paris
-  - village nature paris
+  - RER-A
+  - RER-C
+  - the-lourve
+  - train-to-eifel-tower
+  - trains-to-disney
+  - trains-to-paris
+  - village-nature-paris
   - old-wordpress-fixed
 description: Travelling into Paris from Disney Land or surrounding areas isn't
   as daunting as it looks.
@@ -40,11 +40,11 @@ Ive recently just stayed at [Center Parcs Villages Nature Paris](https://www.cen
 
 We decided to get the train into Paris from **Marne-la-Vallée/Chessy**, this is situated 60 seconds from the main gates to Disney. The line we used was the **RER A** (RER = Region Express Railway). You can see on the map below, we went from **Marne-la-Vallée/Chessy** (top right) to zone 1 **Gare De Lyon**.
 
-[![](https://bonxy.info/wp-content/uploads/2025/09/image-1024x139.png)](https://bonxy.info/wp-content/uploads/2025/09/image.png)
+[![](https://bonxy.info/wp-content/uploads/2025/09/image-1024x139.png)](https://blog.bonxy.net/wp-content/uploads/2025/09/image.png)
 
 We choose Gare De Lyon due to it having connections to different lines and metros, but ultimately we were interested in the **RER C** line which would be able to take us around Paris to the tourist spots we needed to get too. The walk to Paris Austerlitz from Gare De Lyon ([click for google maps link](https://maps.app.goo.gl/qdfs9kWf9V7edB3c6)) was about 6 minutes over a footbridge across the Seine.
 
-[![](https://bonxy.info/wp-content/uploads/2025/09/image-1-1024x265.png)](https://bonxy.info/wp-content/uploads/2025/09/image-1.png)
+[![](https://bonxy.info/wp-content/uploads/2025/09/image-1-1024x265.png)](https://blog.bonxy.net/wp-content/uploads/2025/09/image-1.png)
 
 Once inside Gare De Austerlitz, a quick escalator ride downstairs and your on the platform. I dont think we ever waited more than 10 minutes on a platform for a train in Paris, they are non stop. The trains once on board tell you which stops are coming up so its really easy to keep track of where you are on the line.
 
