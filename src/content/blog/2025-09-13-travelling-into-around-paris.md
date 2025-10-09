@@ -34,7 +34,7 @@ tags:
 description: Travelling into Paris from Disney Land or surrounding areas isn't
   as daunting as it looks.
 ---
-Travelling to Paris from Disney Land or the surrounding areas isn't as daunting as it looks.
+## 🗼 Travelling to Paris from Disney Land or the surrounding areas isn't as daunting as it looks.
 
 I've recently stayed at [Centre Parcs Villages Nature Paris](https://www.centerparcs.eu/in-en/france/fp_VN_holiday-park-villages-nature-paris) for a week and visited Disneyland, where we did all things Disney in the area. However, we also wanted to go into Paris to see attractions like the Eiffel Tower, the Louvre, Notre Dame, etc. So I decided to jot down some notes on how we got there and what lines we used, ticket information, etc, as we couldn't find much information online.
 
@@ -52,7 +52,7 @@ Once you reach your decided station, hop off and scan your pass through the gate
 
 ![](/assets/2025/2025-09-13-travelling-around-paris-by-train-travel-card.png)
 
-## **Tickets / Navigo Easy Pass**
+## **🎫 Tickets / Navigo Easy Pass**
 
 Like a lot of major capitals, you can travel around Paris using an EasyPass. You can either get a physical pass from one of the 1000s of ticket machines at the station or top up your E-pass on your phone. Depending on the number of stops you need to make, a day pass might be more suitable for you.
 
@@ -63,7 +63,7 @@ Like a lot of major capitals, you can travel around Paris using an EasyPass. You
 
 _Prices correct as of September 2025_ - [https://www.ratp.fr/en/titres-et-tarifs](https://www.ratp.fr/en/titres-et-tarifs)
 
-## Notes & After Thoughts
+## 📒 Notes & After Thoughts
 
 I decided to write this blog based on my own experience and the difficulty of finding some easy information on how to get around Paris. I hope that in future it helps someone else. Don't be put off by the thought of travelling around the French capital. There are so many great sites to see, and it doesn't have to be scary. The above worked for me, travelling with a 6-year-old. There were a few times when strangers _squeezed_ through the barrier behind us (fare evading), but we didn't say anything; we just carried on as normal and let people do their own thing.
 
