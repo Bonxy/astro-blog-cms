@@ -10,9 +10,11 @@ tags:
 - hambleton-hike
 - walking
 - hiking
-description: Today started with a 8.5-mile (13.6 km) hike around Hambleton Hike, where the average temperature was 21℃..
+- urra-moor
+- chop-gate
+description: So Sunday started with a 8.5-mile (13.6 km) hike around Hambleton Hike, where the average temperature was 21℃..
 ---
-Today started with a 8.5-mile (13.6 km) hike around Hambleton Hike, where the average temperature was 21℃.
+So Sunday started with a 8.5-mile (13.6 km) hike around Hambleton Hike, where the average temperature was 21℃.
 
 We started at 9:14 on Sunday, and altogether the hike took 3h 35m 58s to complete.
 
@@ -39,3 +41,5 @@ We managed an average pace of 1.169km/h with a max of 3.68km/h whilst also climb
 | 7 | 1611m | -57.4 | 24m 45s | 1.08 | 104 |
 | 8 | 1607.5m | -104.2 | 23m 18s | 1.15 | 105 |
 | 9 | 742.1m | -19 | 09m 13s | 1.34 | 107 |
+
+See this hike on [Strava](https://strava.com/activities/11180254678?ref=from_blog).
