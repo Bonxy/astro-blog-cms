@@ -2,7 +2,7 @@
 author: Sam
 pubDatetime: 2024-05-03
 title: Malham Cove / Gordale Scar / Janets Foss Loop
-slug: malham-cove-/-gordale-scar-/-janets-foss-loop
+slug: malham-cove-gordale-scar-janets-foss-loop
 featured: false
 draft: false
 tags:
