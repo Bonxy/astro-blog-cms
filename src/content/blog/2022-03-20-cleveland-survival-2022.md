@@ -1,8 +1,8 @@
 ---
 author: Sam
 pubDatetime: 2022-03-20
-title: 2022 Cleveland Survival
-slug: 2022-cleveland-survival
+title: Cleveland Survival 2022
+slug: cleveland-survival-2022
 featured: false
 draft: false
 tags:
