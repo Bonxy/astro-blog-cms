@@ -2,7 +2,7 @@
 author: Sam
 pubDatetime: 2023-12-30
 title: White Horse / Sutton Bank
-slug: white-horse-/-sutton-bank
+slug: white-horse-sutton-bank
 featured: false
 draft: false
 tags:
