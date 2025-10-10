@@ -15,7 +15,8 @@ tags:
   - xbox-live
 description: Bug VillageName Bug Village
 ---
-<img src="/assets/2012/2012-02-02-bug-village-icon.png" align="right">
+![](/assets/2012/2012-02-02-bug-village-icon.png)
+
 *   **Name**: Bug Village
     
 *   **Platform**: Windows Phone 7
@@ -40,3 +41,7 @@ I got an update today and thought that it would solve all the problems that the 
 Im running the game on my HTC Trophy 7. Its never had any problems before, only with this game!
 
 I hope they fix this game soon.
+
+* * *
+
+2025 - I did complete this game in the end - [https://bonxystuff.com/myxbox/1196757906](https://bonxystuff.com/myxbox/1196757906)
