@@ -6,7 +6,7 @@ slug: a-change-of-scenary
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixeed
   - hartlepool
   - haremma
   - oil-rig
@@ -14,7 +14,7 @@ tags:
 description: Today i started on a new project for the company i work for after 5
   months of working at Heerema in Hartlepool building the new oil platform
 ---
-Today i started on a new project for the company i work for after 5 months of working at Heerema in Hartlepool building the new oil platform.
+Today i started on a new project (Kiln Pit Hill Windfarm) for the company i work for after 5 months of working at Heerema in Hartlepool building the new oil platform (York project).
 
 Here are some pictures of my time at Heerema.
 
