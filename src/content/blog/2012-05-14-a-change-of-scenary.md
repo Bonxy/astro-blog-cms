@@ -7,11 +7,15 @@ featured: false
 draft: false
 tags:
   - old-wordpress-import
-description: Today i started on a new project for the company i work for after 5 months of working at Heerema in Hartlepool building the new oil platform
+  - hartlepool
+  - haremma
+  - oil-rig
+  - platform
+description: Today i started on a new project for the company i work for after 5
+  months of working at Heerema in Hartlepool building the new oil platform
 ---
+Today i started on a new project for the company i work for after 5 months of working at Heerema in Hartlepool building the new oil platform.
 
-Today i started on a new project for the company i work for after 5 months of working at Heerema in Hartlepool building the new oil platform. 
+Here are some pictures of my time at Heerema.
 
-Here are some pictures of my time at Heerema. 
-
-[![](https://blog.bonxy.net/wp-content/uploads/2012/05/Hartlepool-20120508-004811.jpg)](https://blog.bonxy.net/wp-content/uploads/2012/05/Hartlepool-20120508-004811.jpg)
+![](/assets/2012/2012-05-14-new-job-Hartlepool-20120508-00481.jpg)
