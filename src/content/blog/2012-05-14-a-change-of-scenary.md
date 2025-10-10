@@ -11,6 +11,8 @@ tags:
   - haremma
   - oil-rig
   - platform
+  - kiln-pit-hill-windfarm
+  - york-platform
 description: Today i started on a new project for the company i work for after 5
   months of working at Heerema in Hartlepool building the new oil platform
 ---
