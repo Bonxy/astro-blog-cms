@@ -15,7 +15,7 @@ tags:
   - xbox-live
 description: Bug VillageName Bug Village
 ---
-![](/assets/2012/2012-02-02-bug-village-icon.png)
+<p style="text-align: justify"><img src="/assets/2012/2012-02-02-bug-village-icon.png"></p>
 
 *   **Name**: Bug Village
     
