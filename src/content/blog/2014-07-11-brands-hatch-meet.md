@@ -2,7 +2,7 @@
 author: Sam
 pubDatetime: 2014-07-11
 title: Brands Hatch Meet
-slug: brands-hatch-meet
+slug: brands-hatch-mini-fest-2014
 featured: false
 draft: false
 tags:
