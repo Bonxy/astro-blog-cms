@@ -13,7 +13,7 @@ tags:
   - xbox
 description: Wordament Icon
 ---
-![](/assets/2013/2013-01-06-wordament-icon.jpg)
+<p style="text-align: justify"><img src="/assets/2013/2013-01-06-wordament-icon.jpg"></p>
 
 **Wordament** is a boggle based game for your mobile device.
 
