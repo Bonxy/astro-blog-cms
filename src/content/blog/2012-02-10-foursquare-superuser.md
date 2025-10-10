@@ -6,7 +6,7 @@ slug: foursquare-superuser
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - foursquare
   - 4sq
   - foursquare-app
@@ -18,7 +18,7 @@ description: Foursquare is a big thing for me I use it daily to check into the
 ---
 Foursquare is a big thing for me. I use it daily to check into the places i visit around me. Its good to look back on where i have been on what does and i can also see who i have been with.
 
-<img src="/assets/2012/2012-02-10-foursquare-superuser.png" align="right">
+![](/assets/2012/2012-02-10-foursquare-superuser.png)
 
 You can share your check ins with other social media sites like Facebook and Twitter to let your friends know where you are if you want to.
 
