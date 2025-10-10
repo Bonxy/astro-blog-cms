@@ -18,7 +18,7 @@ description: Foursquare is a big thing for me I use it daily to check into the
 ---
 Foursquare is a big thing for me. I use it daily to check into the places i visit around me. Its good to look back on where i have been on what does and i can also see who i have been with.
 
-<p style="text-align: justify"><img src="/assets/2012/2012-02-10-foursquare-superuser.png"></p>
+<img src="/assets/2012/2012-02-10-foursquare-superuser.png" align="right">
 
 You can share your check ins with other social media sites like Facebook and Twitter to let your friends know where you are if you want to.
 
