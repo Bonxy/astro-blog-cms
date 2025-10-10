@@ -12,12 +12,13 @@ tags:
   - catapult-experience
   - uk-bungee
   - reverse-bungee
+  - w/-beck
 description: Well today i finally went and did my catapult experience that
   RebekahEsme had bought for me for my birthday back in October 2011
 ---
 Well, today I finally went and did my catapult experience that [@RebekahEsme](http://rebekahesme.com) had bought for me for my birthday back in October 2011.
 
-The catapult is only done at very few ![](http://farm8.staticflickr.com/7267/7809584604_ac53f424fe_m.jpg)locations around the UK. The closest one to us was Chester, so we thought we would go do the jump, then make a day of it around Manchester.
+The catapult is only done at very few locations around the UK. The closest one to us was Chester, so we thought we would go do the jump, then make a day of it around Manchester.
 
 When we got to the catapult, it was a bit smaller than I expected. Just a crane, probably 100 Ft high or so and a basket with the elastic attached under it.
 
