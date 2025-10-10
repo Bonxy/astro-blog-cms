@@ -6,10 +6,14 @@ slug: cher-lloyd
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
-description: Last night me and RebekahEsme went down to the 02 Academy Leeds to go and see Cher Lloyd live in concert...
+  - old-wordpress-fixed
+  - cher-lloyd
+  - leeds
+  - o2-academy
+  - w/-becks
+description: Last night me and RebekahEsme went down to the 02 Academy Leeds to
+  go and see Cher Lloyd live in concert...
 ---
-
 Last night me and [@RebekahEsme](http://rebekahesme.com) went down to the [02 Academy](http://www.o2academyleeds.co.uk/), Leeds to go and see Cher Lloyd live in concert.
 
 When pulling up and stepping out the taxi I was shocked at the size of the queue there was already, and we where 30 minutes early!! There was loads of kids with there parents but I didn't imagine that there would be this many.
