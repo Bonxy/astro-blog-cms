@@ -14,6 +14,7 @@ tags:
   - jay-z
   - kanye-west
   - watch-the-throne-tour
+  - w/-becks
 description: OMG
 ---
 OMG
@@ -36,12 +37,12 @@ The few videos and pictures that I did get which where good enough to post are b
 
 Thanks.
 
+![](/assets/2012/2012-06-12-that-shit-cray-IMG-20120611-00114.jpg)
+
+![](/assets/2012/2012-06-12-that-shit-cray-IMG-20120611-00120.jpg)
+
 ![](/assets/2012/2012-06-12-that-shit-cray-IMG-20120611-00122.jpg)
 
-![](/assets/2012/IMG-20120611-00114.jpg)
-
-![](/assets/2012/IMG-20120611-00120.jpg)
-
-![](/assets/2012/Manchester-20120611-00126.jpg)
+![Rebekah](/assets/2012/2012-06-12-that-shit-cray-Manchester-20120611-00126.jpg)
 
 Posted from WordPress for BlackBerry.
