@@ -6,7 +6,7 @@ slug: brands-hatch-meet
 featured: false
 draft: false
 tags:
-  - old-wordpress-import
+  - old-wordpress-fixed
   - brands-hatch
   - mini
   - mini-fest
@@ -19,11 +19,9 @@ tags:
 description: So a few a weeks I took the Mini to the first meet of 2014 at
   Oulton Park - Mini Fest!
 ---
-So a few weeks I took the Mini to the first meet of 2014.
+So a few weeks I took the Mini to the first meet of 2014 at Oulton Park - Mini Fest.
 
-Brands Hatch was the location.
-
-It was the Mini championships so i got to chill out in the sunshine and attempt to take photos of cars all day!
+Brands Hatch was the location. It was the Mini championships, so I got to chill out in the sunshine and attempt to take photos of cars all day!
 
 Here are some of my _amateur photographer_ shots I got.
 
