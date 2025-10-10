@@ -6,7 +6,7 @@ slug: a-change-of-scenary
 featured: false
 draft: false
 tags:
-  - old-wordpress-fixeed
+  - old-wordpress-fixed
   - hartlepool
   - haremma
   - oil-rig
