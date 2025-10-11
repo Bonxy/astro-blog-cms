@@ -15,8 +15,10 @@ tags:
   - xbox-live
 description: Bug VillageName Bug Village
 ---
-![](/assets/2012/2012-02-02-bug-village-icon.png) \*\*Name\*\*: Bug Village
+![](/assets/2012/2012-02-02-bug-village-icon.png)
 
+*   **Name:** Bug Village
+    
 *   **Platform**: Windows Phone 7
     
 *   **Genre**: Strategy & Simulation
