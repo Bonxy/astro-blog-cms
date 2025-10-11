@@ -14,8 +14,7 @@ tags:
   - achievement-hunter
 description: Marble Blast Ultra.
 ---
-<p style="text-align: justify"><img src="/assets/2012/2012-01-23-marble-blast-ultra-thumb.jpg"></p>
-
+<img src="/assets/2012/2012-01-23-marble-blast-ultra-thumb.jpg" align="right">
 *   **Name**: Marble Blast Ultra
     
 *   **Platform**: Xbox Live
