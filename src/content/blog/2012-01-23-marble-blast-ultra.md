@@ -15,6 +15,7 @@ tags:
 description: Marble Blast Ultra.
 ---
 <img src="/assets/2012/2012-01-23-marble-blast-ultra-thumb.jpg" align="right">
+
 *   **Name**: Marble Blast Ultra
     
 *   **Platform**: Xbox Live
