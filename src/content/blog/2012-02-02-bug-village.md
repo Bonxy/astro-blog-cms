@@ -30,7 +30,7 @@ description: Bug VillageName Bug Village
 *   **Compare To Bonxy**: [Clicky](https://live.xbox.com/en-GB/Activity/Details?titleId=1196757906&compareTo=Bonxy)
     
 
-## **Comments/Write Up**
+## **🪲 Comments/Write Up**
 
 This was a free download with xbox live integration made by microsoft. The game is based around you feeding your bugs food and this gives you a time limit. Then your bugs collect resources from piles and flowers and you earn XP. The more XP you get the higher levels you reach.
 
